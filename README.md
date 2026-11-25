@@ -16,8 +16,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust%2Cpy%2Cts%2Cgo%2Ccpp%2Cpytorch%2Cbun%2Ctauri%2Cdocker%2Clinux%2Cgithubactions%2Cgit&amp;perline=12&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust%2Cpy%2Cts%2Cgo%2Ccpp%2Cpytorch%2Cbun%2Ctauri%2Cdocker%2Clinux%2Cgithubactions%2Cgit&amp;perline=12&amp;theme=light" />
-    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=rust%2Cpy%2Cts%2Cgo%2Ccpp%2Cpytorch%2Cbun%2Ctauri%2Cdocker%2Clinux%2Cgithubactions%2Cgit&amp;perline=12&amp;theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
+    <img alt="Core Tech Stack — Rust, Python, TypeScript, Go, C++, Docker, Kubernetes, Linux, macOS, Windows" src="./assets/stack-light.svg" width="100%" />
   </picture>
 </p>
