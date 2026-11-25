@@ -35,21 +35,10 @@ jobs:
           config_display: large
           config_octicon: yes
           config_twemoji: yes
-          config_padding: 0, 8%
-          base: header, activity, community, repositories
+          config_padding: 0, 6%
+          # Clean public activity + 3D isometric contribution calendar (zero PAT required, zero follower/star clutter)
+          base: activity
           base_indepth: no
-          # 3D Isometric Voxel/Mosaic Contribution Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          # Most Used Languages (excluding legacy static site & markup)
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_skipped: roggeohta.github.io
-          plugin_languages_ignored: html, css, dockerfile, makefile
-          plugin_languages_limit: 6
-          # Concise coding habits summary
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
           committer_message: "chore: update github metrics"
