@@ -16,8 +16,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,py,ts,go,cpp,bash,pytorch,bun,nodejs,fastapi,tauri,react,nextjs,vite,tailwind,postgres,redis,sqlite,docker,linux,cloudflare,githubactions,git,vscode&perline=12&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,py,ts,go,cpp,bash,pytorch,bun,nodejs,fastapi,tauri,react,nextjs,vite,tailwind,postgres,redis,sqlite,docker,linux,cloudflare,githubactions,git,vscode&perline=12&theme=light" />
-    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=rust,py,ts,go,cpp,bash,pytorch,bun,nodejs,fastapi,tauri,react,nextjs,vite,tailwind,postgres,redis,sqlite,docker,linux,cloudflare,githubactions,git,vscode&perline=12&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,py,ts,js,go,cpp,c,kotlin,haskell,bash,wasm,lua,bun,nodejs,deno,pytorch,tensorflow,sklearn,opencv,fastapi,flask,tauri,electron,react,nextjs,vue,vite,tailwind,graphql,threejs,postgres,redis,sqlite,mongodb,kafka,docker,kubernetes,linux,cloudflare,aws,gcp,nginx,githubactions,git,neovim&perline=15&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,py,ts,js,go,cpp,c,kotlin,haskell,bash,wasm,lua,bun,nodejs,deno,pytorch,tensorflow,sklearn,opencv,fastapi,flask,tauri,electron,react,nextjs,vue,vite,tailwind,graphql,threejs,postgres,redis,sqlite,mongodb,kafka,docker,kubernetes,linux,cloudflare,aws,gcp,nginx,githubactions,git,neovim&perline=15&theme=light" />
+    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=rust,py,ts,js,go,cpp,c,kotlin,haskell,bash,wasm,lua,bun,nodejs,deno,pytorch,tensorflow,sklearn,opencv,fastapi,flask,tauri,electron,react,nextjs,vue,vite,tailwind,graphql,threejs,postgres,redis,sqlite,mongodb,kafka,docker,kubernetes,linux,cloudflare,aws,gcp,nginx,githubactions,git,neovim&perline=15&theme=light" />
   </picture>
 </p>
