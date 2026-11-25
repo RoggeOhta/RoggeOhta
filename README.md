@@ -16,14 +16,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,ts,bun,py,tauri,docker,linux,githubactions,git&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,ts,bun,py,tauri,docker,linux,githubactions,git&theme=light" />
-    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=rust,ts,bun,py,tauri,docker,linux,githubactions,git&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,py,ts,go,cpp,bash,pytorch,bun,nodejs,fastapi,tauri,react,nextjs,vite,tailwind,postgres,redis,sqlite,docker,linux,cloudflare,githubactions,git,vscode&perline=12&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,py,ts,go,cpp,bash,pytorch,bun,nodejs,fastapi,tauri,react,nextjs,vite,tailwind,postgres,redis,sqlite,docker,linux,cloudflare,githubactions,git,vscode&perline=12&theme=light" />
+    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=rust,py,ts,go,cpp,bash,pytorch,bun,nodejs,fastapi,tauri,react,nextjs,vite,tailwind,postgres,redis,sqlite,docker,linux,cloudflare,githubactions,git,vscode&perline=12&theme=light" />
   </picture>
-</p>
-
-<br />
-
-<p align="center">
-  <img alt="GitHub Metrics" src="./assets/metrics.svg" width="100%" />
 </p>
